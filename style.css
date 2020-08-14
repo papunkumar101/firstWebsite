@@ -1,0 +1,29 @@
+body {
+    font-size: 15pt;
+    color: #AB3973;
+    background-color: #1766958C;
+    text-align: center;
+}
+p{
+  color: #C6C3AE;
+}
+#mt{
+  color: #B8C23ACF;
+}
+#submit{
+  color: white;
+  background-color: #24A439;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border: 2px;
+}
+
+#print {
+  color: white;
+  background-color: #7E190A;
+  height: 50px;
+  width: 100px;
+  border-radius: 5px;
+  border: 2px;
+}
